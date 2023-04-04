@@ -1,3 +1,7 @@
+/**
+ * Authentication Definition
+ */
+
 import { RemovalPolicy } from "aws-cdk-lib";
 import {
   AccountRecovery,

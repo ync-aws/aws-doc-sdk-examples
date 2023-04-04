@@ -1,3 +1,7 @@
+/**
+ * API model definition
+ */
+
 import {
   JsonSchemaType,
   JsonSchemaVersion,

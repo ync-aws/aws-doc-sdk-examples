@@ -1,3 +1,7 @@
+/**
+ * Stack Definition
+ */
+
 import { CfnOutput, Stack, StackProps } from "aws-cdk-lib";
 import { PolicyStatement } from "aws-cdk-lib/aws-iam";
 import { LambdaDestination } from "aws-cdk-lib/aws-s3-notifications";

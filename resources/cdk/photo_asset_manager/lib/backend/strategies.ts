@@ -1,3 +1,7 @@
+/**
+ * Multi-language support definitions
+ */
+
 import { BundlingOutput, Duration } from "aws-cdk-lib";
 import { Code, Runtime } from "aws-cdk-lib/aws-lambda";
 import { resolve } from "path";
